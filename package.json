@@ -1,0 +1,23 @@
+{
+	"name": "x11-keyboard",
+	"version": "0.1.0",
+	"description": "Extremely simple X11 keyboard input driver",
+	"main": "app.js",
+	"scripts": {
+		"test": "node test.js"
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/hash-bang/Node-X11-Keyboard"
+	},
+	"keywords": [
+		"X11",
+		"keyboard",
+		"keypress",
+		"keyrelease",
+		"keyup",
+		"keydown"
+	],
+	"author": "Matt Carter <m@ttcarter.com>",
+	"license": "MIT"
+}
